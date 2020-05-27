@@ -1,0 +1,8 @@
+name: Burger Burgler
+description: Burger descripton here
+type: theme
+core: 8.x
+base theme: classy
+
+libraries:
+  - burger_burgler/global-styling
