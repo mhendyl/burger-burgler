@@ -6,3 +6,6 @@ base theme: classy
 
 libraries:
   - burger_burgler/global-styling
+
+regions:
+  custom_header_region: 'Custom Header Region'

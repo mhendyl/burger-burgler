@@ -1,0 +1,7 @@
+name: Real Burger Burgler 
+description: our new theme
+type: theme
+core: 8.x
+
+libraries:
+  - burger_burgler_real/global-styling

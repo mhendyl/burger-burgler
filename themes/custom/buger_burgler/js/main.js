@@ -1,5 +1,5 @@
 var $ = jQuery;
 
-$(document).ready(function(){
-  alert('welcome to our burger page');
-});
+// $(document).ready(function(){
+//   alert('welcome to our burger page');
+// });
