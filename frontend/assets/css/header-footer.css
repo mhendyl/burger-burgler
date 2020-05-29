@@ -1,0 +1,36 @@
+/* NAVBAR SECTION */
+.navbar-light-header-one .navbar-nav .nav-link {
+  font-size: 14px;
+}
+.navbar-blue-header-two{
+  background-color: #0d58b5;
+}
+.navbar-blue-header-two .navbar-brand img{
+  max-width: 90px;
+}
+.navbar-blue-header-two .collapse .nav-item .nav-link{
+  color: white;
+  font-weight: bold;
+}
+
+/*FOOTER SECTION*/
+
+.footer-one .social-media a{
+  color: #0a6eb4;
+}
+
+.footer-one .social-media i{
+  font-size: 30px;
+  margin-right: 2rem;
+}
+
+.footer-one .img-ojk{
+  max-width: 90px;
+}
+
+.footer-two{
+  background-color: #0a6eb4;
+  color: white;
+}
+
+/*.footer-two*/

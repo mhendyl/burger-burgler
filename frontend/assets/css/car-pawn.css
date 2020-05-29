@@ -1,0 +1,22 @@
+.content ul .square{
+  list-style-type: square;
+  font-size: 20px;
+}
+
+.content ul li ul .dash{
+  list-style-type: none;
+  font-size: 20px;
+  padding-left: 0;
+}
+
+.content ul li ul .dash:before{
+  content: '- ';
+}
+
+.content h3{
+  font-size: 2.6rem;
+}
+
+.content .share-link{
+  font-size: 25px;
+}
